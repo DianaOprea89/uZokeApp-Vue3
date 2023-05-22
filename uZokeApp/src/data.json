@@ -1,35 +1,26 @@
 [
   {
-    "food": "avocado"
+    "name": "sleep",
+    "url": "sleeping",
+    "image": {
+      "src": "https://picsum.photos/id/237/200/300",
+      "alt": "sleep"
+    }
   },
   {
-    "food": "banana"
+    "name": "feeding",
+    "url": "feeding",
+    "image": {
+      "src": "https://picsum.photos/id/238/200/300",
+      "alt": "feeding"
+    }
   },
   {
-    "food": "apple"
-  },
-  {
-    "food": "rice cereal"
-  },
-  {
-    "food": "sweet potato"
-  },
-  {
-    "food": "oatmeal"
-  },
-  {
-    "food": "spinach"
-  },
-  {
-    "food": "chicken"
-  },
-  {
-    "food": "peas"
-  },
-  {
-    "food": "pear"
-  },
-  {
-    "food": "yogurt"
+    "name": "Solids",
+    "url": "solids",
+    "image": {
+      "src": "https://picsum.photos/id/239/200/300",
+      "alt": "solids"
+    }
   }
 ]
